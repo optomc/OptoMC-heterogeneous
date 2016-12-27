@@ -1,4 +1,5 @@
-# OptoMC-heterogeneous
+# OptoMC-heterogeneous.
+
 
 Mesh-based (heterogeneous) Monte Carlo Simulation with Direct Photon Flux Recording Strategy for Optogenetics.
 
