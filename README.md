@@ -11,4 +11,3 @@ To run the code for the four-layered tissue model, please excute:  'optomc_fourL
 To run the code for the rodent brain model, please excute:  'optomc_rat.m'
 
 To visualize precomputed results for the rodent brain model, please excute:  'visualization.m'
-
